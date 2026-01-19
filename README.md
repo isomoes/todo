@@ -22,6 +22,14 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ---
 
 ## TODO Collection
+### [#168](https://github.com/jiahaoxiang2000/diary/issues/168) 2026-01-17 Sat
+- [ ] improve big paper
+- [ ] fix deep-paper 
+
+### [#167](https://github.com/jiahaoxiang2000/diary/issues/167) 2026-01-13 Tue
+- [x] weekly report meeting
+- [ ] https://github.com/jiahaoxiang2000/big_paper/issues/10 keep writing
+
 ### [#166](https://github.com/jiahaoxiang2000/diary/issues/166) 2026-01-10 Sat
 - [x] https://github.com/jiahaoxiang2000/claude-skills/issues/1 figure skill
 
