@@ -22,6 +22,19 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ---
 
 ## TODO Collection
+### [#172](https://github.com/isomoes/diary/issues/172) 20260130 Fri
+- [ ] video create pipeline improve in  https://github.com/jiahaoxiang2000/mvideo
+- [x] rename GITHUB username TO isomoes for protect information slef-security
+
+### [#171](https://github.com/isomoes/diary/issues/171) 20260129 Thu
+- [x] read paper for PRF-AES in https://github.com/jiahaoxiang2000/1yang-prf/blob/main/docs/2017-812-optimal-prfs.md
+- [ ] keep do https://github.com/jiahaoxiang2000/agent-bench
+
+### [#170](https://github.com/isomoes/diary/issues/170) 20260126 Mon
+ - [x] weekly report in https://github.com/jiahaoxiang2000/weekly_report/commit/3d26d2f81d0515a6dcaf480fed24a8fc909849ed
+ - [x] review paper in https://github.com/jiahaoxiang2000/TempWrite/commit/43d9139a9902abe343062706152793168759c927
+ - [ ] ikanban project UI design
+
 ### [#169](https://github.com/jiahaoxiang2000/diary/issues/169) 20260119 Mon
 - [x] weekly report writing in https://github.com/jiahaoxiang2000/weekly_report/commit/8c40774d656efc72eb4904009a745cc5e689851b
 - [x] deep-paper template trans FROM tches2trans in https://github.com/jiahaoxiang2000/deeper-paper/commit/c0ebf71863e88dd3ba4eef5771ab1adb126e0d3d
