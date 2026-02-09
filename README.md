@@ -22,6 +22,13 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ---
 
 ## TODO Collection
+### [#174](https://github.com/isomoes/diary/issues/174) 20260206 Fri
+- [x] go back home
+
+### [#173](https://github.com/isomoes/diary/issues/173) 20260202 Mon
+- [x] weekly report in https://github.com/isomoes/weekly_report/commit/76cddecace6ccabf6903a1d143137fa0bd8a3930
+- [x] keep do https://github.com/isomoes/mvideo
+
 ### [#172](https://github.com/isomoes/diary/issues/172) 20260130 Fri
 - [ ] video create pipeline improve in  https://github.com/jiahaoxiang2000/mvideo
 - [x] rename GITHUB username TO isomoes for protect information slef-security
