@@ -22,6 +22,13 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ---
 
 ## TODO Collection
+### [#176](https://github.com/isomoes/diary/issues/176) 20260217 Tue
+- [x] https://github.com/isomoes/ikanban improve some bug for use the Surfingkeys
+  - here we close the surfingkeys, then config the application to vim-style
+
+### [#175](https://github.com/isomoes/diary/issues/175) 20260216 Mon
+- [x] new year animation video in https://github.com/isomoes-video/new-year-animation
+
 ### [#174](https://github.com/isomoes/diary/issues/174) 20260206 Fri
 - [x] go back home
 
