@@ -22,6 +22,19 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ---
 
 ## TODO Collection
+### [#179](https://github.com/isomoes/diary/issues/179) 20260301 Sun
+- [ ] device show figure
+- [x] https://github.com/isomoes/ml-dsa-rs/ review the ml-dsa how implementation
+
+### [#178](https://github.com/isomoes/diary/issues/178) 20260228 Sat
+- [x] https://github.com/isomoes/big_paper/issues/10 check paper context for logic
+- [ ] device show figure
+
+### [#177](https://github.com/isomoes/diary/issues/177) 20260225 Wed
+- [x] review paper
+- [x] talk hardware implement LLPRF, not FPGA imple, to ASCI fig
+- [ ] ikanban https://github.com/isomoes/ikanban intro video 
+
 ### [#176](https://github.com/isomoes/diary/issues/176) 20260217 Tue
 - [x] https://github.com/isomoes/ikanban improve some bug for use the Surfingkeys
   - here we close the surfingkeys, then config the application to vim-style
