@@ -22,6 +22,24 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ---
 
 ## TODO Collection
+### [#182](https://github.com/isomoes/diary/issues/182) 20260308 Sun
+- [x] paper review
+- [x] https://github.com/isomoes/big_paper/issues/10 finally check
+- [ ] https://github.com/isomoes/ml-dsa-rs find the optimize point
+
+### [#181](https://github.com/isomoes/diary/issues/181) 20260307 Sat
+- [x] review one paper
+- [ ] fix thesis in https://github.com/isomoes/big_paper/issues/10 
+  - [x] format issue
+  - [x] add the cover page pdf
+  - [ ] anti-aigc skill to improve writing
+- [x] keep improve https://github.com/isomoes/ikanban project
+  - add the project diff in reivew plane  
+
+### [#180](https://github.com/isomoes/diary/issues/180) 20260302 Mon
+- [x] weekly report writing, first part is major paper, second part is deep-paper changes in https://github.com/isomoes/weekly_report/commit/28ee77335aef447a7def7a3ca9be31a88a243870
+- [ ] device figure show in paper
+
 ### [#179](https://github.com/isomoes/diary/issues/179) 20260301 Sun
 - [ ] device show figure
 - [x] https://github.com/isomoes/ml-dsa-rs/ review the ml-dsa how implementation
