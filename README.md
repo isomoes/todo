@@ -22,6 +22,36 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ---
 
 ## TODO Collection
+### [#188](https://github.com/isomoes/diary/issues/188) 20260315 Sun
+- [ ] HUFE first class in https://github.com/isomoes/tutor/commit/2e852175f4a57b5fc651b5e66fb718e0fc9c9b7f
+- [ ] improve https://github.com/isomoes/ikanban for support kanban function & mulit agent
+  - kanban function improve ui in https://github.com/isomoes/ikanban/commit/26f07f2b76292d31264016e84135bc67e5748c05 
+
+### [#187](https://github.com/isomoes/diary/issues/187) 20260314 Sat
+- [x] https://www.yuque.com/xjh2000/wm1kar HUFE teacher in https://github.com/isomoes/tutor/commit/a5b6d0fd3370cf3d4d4e81602833073962d9153d start doc
+- [x] https://github.com/router-for-me/CLIProxyAPI CLI proxy config for scale GPT/Claude account in https://github.com/isomoes/arch-config/commit/e1e44c812f815b87bbf5f9edf57b61197884934a
+- [x] https://github.com/isomoes/skills keep do add writing skill for IEEE https://github.com/isomoes/skills/commit/9fa6ade31d0f796df6aaf4bac9bdc82407950c63
+
+### [#186](https://github.com/isomoes/diary/issues/186) 20260313 Fri
+- [x] PRE defense thesis
+- [ ] create the AI-first software, now is https://github.com/isomoes/skills
+
+### [#185](https://github.com/isomoes/diary/issues/185) 20260312 Thu
+- [x] https://github.com/isomoes/big_paper 
+  - [x] format adjust for abstract etc
+  - [x] show slide in https://github.com/isomoes/big_paper/commit/eca2fce518910fa2a4757776e7992ed6b77db6b0 
+- [ ] create the writing skill & online hot skill to https://github.com/isomoes/skills
+
+### [#184](https://github.com/isomoes/diary/issues/184) 20260310 Tue
+- [x] weekly report meeting finish in https://github.com/isomoes/weekly_report/commit/3165c2406efbe33a0f32da64c261880c33aca0b1
+- [x] extend the AI coding blog finish in https://isomoes.github.io/blog/ide/ai-vibe-coding-2026
+  -  https://isomoes.github.io/blog/ide/ai-code
+  - https://isomoes.github.io/blog/misc/change-2025#the-ai-llm-evolution-from-copilot-to-opencode-
+
+### [#183](https://github.com/isomoes/diary/issues/183) 20260309 Mon
+- [x] weekly report
+- [x] https://github.com/isomoes/deeper-paper update some novel context
+
 ### [#182](https://github.com/isomoes/diary/issues/182) 20260308 Sun
 - [x] paper review
 - [x] https://github.com/isomoes/big_paper/issues/10 finally check
