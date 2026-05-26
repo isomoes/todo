@@ -72,7 +72,7 @@ jobs:
             
             # Use awk to insert new issues after TODO Collection header
             awk '
-              /^## TODO Collection$/ {
+              /^## Collection$/ {
                 print $0
                 while ((getline line < "new_issues.txt") > 0) {
                   print line
