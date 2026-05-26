@@ -7,6 +7,31 @@ Let the thinking then do it and record what things happen. By the way, I can stu
 This is the _reason_ why I write the diary.
 
 ## Collection
+### [#202](https://github.com/isomoes/todo/issues/202) 20260526 Tue
+- [ ] meeting teacher 
+- [ ] prepare new target/repo for new journal/conference
+- [x] https://github.com/isomoes/youngc_hunan init the project, similar need use the old jobs to write
+
+### [#201](https://github.com/isomoes/todo/issues/201) 20260525 Mon
+- [x] go new school
+- [ ] prepare new file/target/repo for new journal
+
+### [#200](https://github.com/isomoes/todo/issues/200) 20260523
+- [x] package Clothes
+- [x] double check thesis files
+
+### [#199](https://github.com/isomoes/todo/issues/199) 20260522
+- [ ] paper for check
+- [x] package things
+
+### [#198](https://github.com/isomoes/todo/issues/198) 20260521 Thu
+- [x] transform aiapi back old server
+- [ ] package things for transform
+
+### [#197](https://github.com/isomoes/todo/issues/197) 20260520 Wed
+- [x] retrieve files before 6-20 in https://www.yuque.com/xjh2000/fm9f5m/turfvfssggdf1tug
+- [ ] package things for transfrom
+
 ### [#188](https://github.com/isomoes/diary/issues/188) 20260315 Sun
 - [x] HUFE first class in https://github.com/isomoes/tutor/commit/2e852175f4a57b5fc651b5e66fb718e0fc9c9b7f
 - [x] improve https://github.com/isomoes/ikanban for support kanban function & mulit agent
