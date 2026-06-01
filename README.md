@@ -7,6 +7,32 @@ Let the thinking then do it and record what things happen. By the way, I can stu
 This is the _reason_ why I write the diary.
 
 ## Collection
+### [#206](https://github.com/isomoes/todo/issues/206) 20260530 Sat
+- [ ] https://github.com/isomoes/youngc_hunan/issues/1 outline
+- [ ] homework for network
+
+### [#205](https://github.com/isomoes/todo/issues/205) 20260529 Fri
+- [ ] https://github.com/isomoes/youngc_hunan outline
+- [x] read paper
+
+### [#204](https://github.com/isomoes/todo/issues/204) 20260528 Thu
+- [ ] https://github.com/isomoes/youngc_hunan outline
+- [x] junior student meeting in 9 pm
+
+### [#203](https://github.com/isomoes/todo/issues/203) 20260527 Wed
+- [ ] read some paper, find research direct
+- [ ] https://github.com/isomoes/youngc_hunan outline
+- [x] see junior student paper progress
+
+### [#202](https://github.com/isomoes/todo/issues/202) 20260526 Tue
+- [x] meeting teacher 
+- [ ] prepare new target/repo for new journal/conference
+- [x] https://github.com/isomoes/youngc_hunan init the project, similar need use the old jobs to write
+
+### [#201](https://github.com/isomoes/todo/issues/201) 20260525 Mon
+- [x] go new school
+- [ ] prepare new file/target/repo for new journal
+
 ### [#202](https://github.com/isomoes/todo/issues/202) 20260526 Tue
 - [ ] meeting teacher 
 - [ ] prepare new target/repo for new journal/conference
