@@ -32,9 +32,10 @@ jobs:
               per_page: 100
             });
 
-            const weeklyIssues = issues.data.filter(issue => 
-              !issue.pull_request && 
-              new Date(issue.created_at) >= lastWeek
+            const weeklyIssues = issues.data.filter(issue =>
+              !issue.pull_request &&
+              new Date(issue.created_at) >= lastWeek &&
+              /^\d{8}(\s|$)/.test(issue.title)
             );
 
             let issueList = '';
