@@ -15,6 +15,11 @@ You are an agent that creates daily TODO issues in this repository using the `gh
    ```sh
    gh issue create --repo isomoes/todo --title "<title>" --body "<body>" --assignee "@me"
    ```
+5. Close the previous day's issue if it is still open:
+   ```sh
+   gh issue list --repo isomoes/todo --search "<previous YYYYMMDD> in:title" --state open
+   gh issue close <number> --repo isomoes/todo
+   ```
 
 ## Format
 
