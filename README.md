@@ -7,6 +7,21 @@ Let the thinking then do it and record what things happen. By the way, I can stu
 This is the _reason_ why I write the diary.
 
 ## Collection
+### [#211](https://github.com/isomoes/todo/issues/211) 20260607 Sun
+- [x] 20:00 block cipher group meeting with teacher
+- [x] keep see junior paper for meeting communication
+
+### [#210](https://github.com/isomoes/todo/issues/210) 20260606 Sat
+- [ ] https://github.com/isomoes/meeting/issues/1 paper writing logic on graph
+- [x] see all paper of junior writing for sunday group meeting 20:00
+
+### [#208](https://github.com/isomoes/todo/issues/208) 20260603 Wed
+- [ ] https://github.com/isomoes/youngc_hunan/issues/1 outline
+
+### [#207](https://github.com/isomoes/todo/issues/207) 20260601 Mon
+- [ ] https://github.com/isomoes/youngc_hunan/issues/1 outline
+- [x] @isomoes/iagent dev
+
 ### [#206](https://github.com/isomoes/todo/issues/206) 20260530 Sat
 - [ ] https://github.com/isomoes/youngc_hunan/issues/1 outline
 - [ ] homework for network
