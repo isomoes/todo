@@ -7,6 +7,32 @@ Let the thinking then do it and record what things happen. By the way, I can stu
 This is the _reason_ why I write the diary.
 
 ## Collection
+### [#217](https://github.com/isomoes/todo/issues/217) 20260614 Sun
+- [ ] https://github.com/isomoes/paper-plan/issues/1 keep doing
+- [ ] https://github.com/isomoes/iread improve function
+
+### [#216](https://github.com/isomoes/todo/issues/216) 20260613 Sat
+- [x] https://github.com/isomoes/homework/issues/1 a2 cloud homework
+- [x] https://github.com/isomoes/iread/issues/1 release iread
+
+### [#215](https://github.com/isomoes/todo/issues/215) 20260612 Fri
+- [x] https://github.com/isomoes/iread keep improving
+- [ ] https://github.com/isomoes/paper-plan/issues/1
+
+### [#214](https://github.com/isomoes/todo/issues/214) 20260611 Thu
+- [x] https://github.com/isomoes-video/md2video/issues/5 add video thumbnail & bilibili upload functions
+- [ ] https://github.com/isomoes/iread keep improving
+
+### [#213](https://github.com/isomoes/todo/issues/213) 20260609 Tue
+- [ ] https://github.com/isomoes/youngc_hunan/issues/1 youngc outline
+- [x] create public paper-plan repo https://github.com/isomoes/paper-plan
+- [ ] https://github.com/isomoes/paper-plan/issues/1 collect hot topics issue
+
+
+### [#212](https://github.com/isomoes/todo/issues/212) 20260608 Mon
+- [ ] https://github.com/isomoes/youngc_hunan/issues/1 ready for youngc outline
+- [x] aes-prf verilog hardware implement https://github.com/isomoes/aes-prf-verilog
+
 ### [#211](https://github.com/isomoes/todo/issues/211) 20260607 Sun
 - [x] 20:00 block cipher group meeting with teacher
 - [x] keep see junior paper for meeting communication
