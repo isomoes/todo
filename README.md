@@ -7,6 +7,30 @@ Let the thinking then do it and record what things happen. By the way, I can stu
 This is the _reason_ why I write the diary.
 
 ## Collection
+### [#224](https://github.com/isomoes/todo/issues/224) 20260621 Sun
+- [ ] https://github.com/isomoes/learn-lean4 learn basic info for lean
+
+### [#223](https://github.com/isomoes/todo/issues/223) 20260620 Sat
+- [ ] https://github.com/isomoes/learn-lean4 learn basic info for lean
+
+### [#222](https://github.com/isomoes/todo/issues/222) 20260619 Fri
+- [x] https://github.com/isomoes/learn-lean4 learn basic info for lean
+
+### [#221](https://github.com/isomoes/todo/issues/221) 20260618 Thu
+- [ ] https://github.com/isomoes/paper-plan/issues/1 collect hot topics
+- [x] https://lean-lang.org/learn/ learn basic info
+
+### [#220](https://github.com/isomoes/todo/issues/220) 20260617 Wed
+- [ ] https://github.com/isomoes/paper-plan/issues/1 collect hot topics
+- [ ] https://lean-lang.org/learn/ learn basic info
+
+### [#219](https://github.com/isomoes/todo/issues/219) 20260616
+- back school 
+
+### [#218](https://github.com/isomoes/todo/issues/218) 20260615 Mon
+- [ ] https://github.com/isomoes/paper-plan/issues/1
+- [x] release iread video on bilibili
+
 ### [#217](https://github.com/isomoes/todo/issues/217) 20260614 Sun
 - [ ] https://github.com/isomoes/paper-plan/issues/1 keep doing
 - [ ] https://github.com/isomoes/iread improve function
