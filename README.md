@@ -7,6 +7,14 @@ Let the thinking then do it and record what things happen. By the way, I can stu
 This is the _reason_ why I write the diary.
 
 ## Collection
+### [#226](https://github.com/isomoes/todo/issues/226) 20260624 Wed
+- [x] https://github.com/isomoes/paper-plan/issues/1
+- [x] https://github.com/isomoes/y3-paper/issues/1 collect software implement papers
+
+### [#225](https://github.com/isomoes/todo/issues/225) 20260623 Tue
+- [x] https://github.com/isomoes/paper-plan/issues/1 collect hot topics
+- [x] https://github.com/isomoes/y3-paper init private
+
 ### [#224](https://github.com/isomoes/todo/issues/224) 20260621 Sun
 - [ ] https://github.com/isomoes/learn-lean4 learn basic info for lean
 
