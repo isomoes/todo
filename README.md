@@ -7,6 +7,10 @@ Let the thinking then do it and record what things happen. By the way, I can stu
 This is the _reason_ why I write the diary.
 
 ## Collection
+### [#227](https://github.com/isomoes/todo/issues/227) 20260710 Fri
+- [ ] https://github.com/isomoes/y3-paper/issues/2 theorem analysis
+- [ ] https://github.com/isomoes/youngc_hunan/issues/2 review youngc apply
+
 ### [#226](https://github.com/isomoes/todo/issues/226) 20260624 Wed
 - [x] https://github.com/isomoes/paper-plan/issues/1
 - [x] https://github.com/isomoes/y3-paper/issues/1 collect software implement papers
