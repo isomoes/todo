@@ -42,17 +42,11 @@ jobs:
             if (weeklyIssues.length === 0) {
               issueList = 'No new issues created this week.';
             } else {
-              const issuePromises = weeklyIssues.map(async issue => {
-                const issueDetail = await github.rest.issues.get({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: issue.number
-                });
-                const body = issueDetail.data.body || 'No content';
-                return `### [#${issue.number}](${issue.html_url}) ${issue.title}\n${body}\n`;
-              });
-              const issueDetails = await Promise.all(issuePromises);
-              issueList = issueDetails.join('\n');
+              // listForRepo already returns each issue's body, so no per-issue
+              // get() call is needed (fewer API calls = less exposure to 5xx).
+              issueList = weeklyIssues
+                .map(issue => `### [#${issue.number}](${issue.html_url}) ${issue.title}\n${issue.body || 'No content'}\n`)
+                .join('\n');
             }
 
             const weekStart = lastWeek.toISOString().split('T')[0];
