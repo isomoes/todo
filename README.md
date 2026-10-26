@@ -7,6 +7,15 @@ Let the thinking then do it and record what things happen. By the way, I can stu
 This is the _reason_ why I write the diary.
 
 ## Collection
+### [#234](https://github.com/isomoes/todo/issues/234) 20261023 Fri
+- [ ]  https://github.com/isomoes/y3-paper/issues/4 writing style fix
+- [ ] https://github.com/isomoes/q1-grover-oracle paper reading then extend to latest used TECH
+
+### [#233](https://github.com/isomoes/todo/issues/233) 20261022 Thu
+- [x] fix the https://github.com/isomoes/youngc_hunan submmit issues
+- [x] ai4paper project ppt intro
+- [ ] https://github.com/isomoes/q1-grover-oracle paper reading then extend to latest used TECH
+
 ### [#231](https://github.com/isomoes/todo/issues/231) 20260722 Wed
 - [ ] https://github.com/isomoes/youngc_hunan/issues/2 review youngc
 - [x] https://github.com/isomoes/y3-paper review
