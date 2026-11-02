@@ -7,6 +7,15 @@ Let the thinking then do it and record what things happen. By the way, I can stu
 This is the _reason_ why I write the diary.
 
 ## Collection
+### [#236](https://github.com/isomoes/todo/issues/236) 20261101 Sun
+- [ ] https://github.com/isomoes/q1-grover-oracle paper reading then extend to latest used TECH
+- [ ] find some low level SSCI for publish in agent create paper
+
+### [#235](https://github.com/isomoes/todo/issues/235) 20261029 Thu
+- [x]  https://github.com/isomoes/y3-paper/issues/4 writing some issue
+- [ ] https://github.com/isomoes/q1-grover-oracle paper reading then extend to latest used TECH
+- [ ] find some low level SSCI for publish in agent create paper
+
 ### [#234](https://github.com/isomoes/todo/issues/234) 20261023 Fri
 - [ ]  https://github.com/isomoes/y3-paper/issues/4 writing style fix
 - [ ] https://github.com/isomoes/q1-grover-oracle paper reading then extend to latest used TECH
